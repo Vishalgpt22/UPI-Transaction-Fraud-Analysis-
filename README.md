@@ -26,28 +26,44 @@ The final output is an interactive Tableau dashboard to visualize the ecosystem 
 🛠 Tools & Technologies
 
 Excel → Data Cleaning & Pre-processing
+
 SQL → Database Aggregation, Fraud Segmentation, and Trend Analysis
+
 Python → Exploratory Data Analysis (EDA) and Correlation Mapping
+
 Tableau → Interactive Dashboard Development
 
 ❓ Business Questions Answered
 
 How does fraud risk vary across different hours of the day?
+
 Which banks contribute the highest percentage of fraud cases?
+
 How do transaction volumes and behavior differ between weekends and weekdays?
+
 Which device and network combinations lead to higher transaction failure rates?
+
 Are there specific demographic segments (sender age/state) that are more prone to fraudulent activity?
+
 
 📊 Dashboard Features
 
 • Total Transactions KPI
+
 • Total Fraud Rate (%) KPI
+
 • Average Transaction Value KPI
+
 • Total Volume by Bank
+
 • Hourly Transaction Intensity Heatmap
+
 • Fraud Contribution by Bank/Segment
+
 • Success vs. Failure Distribution by Network/Device
+
 • Weekend vs. Weekday Trend Analysis
+
 
 🔍 Key Insights
 
