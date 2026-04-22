@@ -2,18 +2,26 @@ An end-to-end data analysis project analyzing 2024 Indian UPI transaction patter
 
 📌 Dashboard Preview
 <img width="1678" height="782" alt="Screenshot 2026-04-21 185837" src="https://github.com/user-attachments/assets/f3d61abb-0ca1-4bf0-8f69-2031013be91a" />
+<img width="1684" height="788" alt="Screenshot 2026-04-21 185857" src="https://github.com/user-attachments/assets/0eead3fc-6187-4fb8-b272-e059a2dcff04" />
 
 
 📖 Project Overview
 
 This project analyzes the dynamics of digital payments in India using 2024 UPI transaction data. The objective of this analysis is to gain a deeper understanding of user behavior, system reliability, and fraud risk factors.
 The objective of this analysis is to identify:
+
 • Peak transaction hours and days
+
 • Fraud risk distribution across banks and demographics
+
 • System failure patterns (device/network influences)
+
 • Transaction type behavior (P2P vs. P2M)
+
 • Correlation between transaction time and fraud occurrence
+
 The final output is an interactive Tableau dashboard to visualize the ecosystem of digital payments.
+
 
 🛠 Tools & Technologies
 
