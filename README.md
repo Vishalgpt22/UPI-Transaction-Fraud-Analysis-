@@ -68,6 +68,10 @@ Are there specific demographic segments (sender age/state) that are more prone t
 🔍 Key Insights
 
 • Transaction failure rates are significantly influenced by network types (e.g., 4G vs. 5G/WiFi conditions).
+
 • Specific age groups and states show a higher correlation with fraud incidents, identifying high-risk segments.
+
 • There is a clear distinction in payment behavior between Peer-to-Peer (P2P) and Peer-to-Merchant (P2M) transactions regarding peak usage times.
+
 • Fraud rates are not uniform throughout the day, showing specific "high-risk" windows that suggest potential security hardening opportunities.
+
